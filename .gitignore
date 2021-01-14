@@ -56,3 +56,8 @@ docs/_build/
 /.ipynb_checkpoints
 
 AkraradetSolution
+
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
