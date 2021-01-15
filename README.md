@@ -9,8 +9,6 @@ course in the Asian Data Science and Artificial Intelligence Master's curriculum
 
 --
 
-This is the repository for the course Python for DSAI at Asian Institute of Technology.
-
 Some resource worth mentioning:
 
 1. Lectures/0 - Reading Roadmap
