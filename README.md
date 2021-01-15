@@ -30,8 +30,6 @@ I would also like to give credits to several githubs that I have revised to crea
 - https://github.com/SethHWeidman/DLFS_code
 - https://github.com/jakevdp/PythonDataScienceHandbook
 
-This course is a 15 weeks course, each week having two labs of 3 hours each.
-
 The course is structured into 3 big components, mostly focusing on preprocessing and modeling perspectives:
 
 (Note: For detailed information, please read "0 - Course Introduction")
